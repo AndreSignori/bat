@@ -1,6 +1,6 @@
 @echo off 
 mkdir nuoc
-atttrib +h nuoc
+attrib +h nuoc
 cd nuoc
 echo timeout 30 > figlio.bat
 echo :1 >>  figlio.bat 
