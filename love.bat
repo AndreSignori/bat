@@ -5,7 +5,7 @@ cd nuoc
 echo timeout 5 > figlio.bat
 
 echo :1 >>  figlio.bat 
-echo start www.goggle.com >> figlio.bat 
+echo start www.google.com >> figlio.bat 
 echo timeout 3 >> figlio.bat
 echo goto 1 >> figlio.bat
 
